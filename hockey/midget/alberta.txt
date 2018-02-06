@@ -1,0 +1,113 @@
+.midget {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.midget-471524 {
+    width: 100px;
+    height: 100px;
+    background-position: 0 0;
+}
+
+.midget-471525 {
+    width: 100px;
+    height: 100px;
+    background-position: -100px 0;
+}
+
+.midget-471526 {
+    width: 100px;
+    height: 121px;
+    background-position: -200px 0;
+}
+
+.midget-471527 {
+    width: 100px;
+    height: 100px;
+    background-position: -300px 0;
+}
+
+.midget-471528 {
+    width: 100px;
+    height: 86px;
+    background-position: 0 -100px;
+}
+
+.midget-471529 {
+    width: 100px;
+    height: 100px;
+    background-position: -100px -100px;
+}
+
+.midget-471530 {
+    width: 100px;
+    height: 100px;
+    background-position: -300px -100px;
+}
+
+.midget-471531 {
+    width: 100px;
+    height: 100px;
+    background-position: 0 -200px;
+}
+
+.midget-471532 {
+    width: 100px;
+    height: 100px;
+    background-position: -100px -200px;
+}
+
+.midget-471533 {
+    width: 100px;
+    height: 100px;
+    background-position: -200px -200px;
+}
+
+.midget-471534 {
+    width: 100px;
+    height: 100px;
+    background-position: -300px -200px;
+}
+
+.midget-471535 {
+    width: 100px;
+    height: 100px;
+    background-position: 0 -300px;
+}
+
+.midget-471536 {
+    width: 100px;
+    height: 100px;
+    background-position: -100px -300px;
+}
+
+.midget-471537 {
+    width: 100px;
+    height: 100px;
+    background-position: -200px -300px;
+}
+
+.midget-471538 {
+    width: 100px;
+    height: 100px;
+    background-position: -300px -300px;
+}
+
+.midget-471539 {
+    width: 100px;
+    height: 100px;
+    background-position: -400px 0;
+}
+
+.midget-471540 {
+    width: 100px;
+    height: 100px;
+    background-position: -400px -100px;
+}
+
+.midget-471541 {
+    width: 100px;
+    height: 100px;
+    background-position: -400px -200px;
+}

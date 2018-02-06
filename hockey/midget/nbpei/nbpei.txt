@@ -1,0 +1,41 @@
+.midget {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.midget-472011 {
+    width: 100px;
+    height: 100px;
+    background-position: 0 0;
+}
+
+.midget-472012 {
+    width: 100px;
+    height: 100px;
+    background-position: -100px 0;
+}
+
+.midget-472013 {
+    width: 100px;
+    height: 100px;
+    background-position: 0 -100px;
+}
+
+.midget-472014 {
+    width: 100px;
+    height: 100px;
+    background-position: -100px -100px;
+}
+
+.midget-472015 {
+    width: 100px;
+    height: 100px;
+    background-position: -200px 0;
+}
+
+.midget-472016 {
+    width: 100px;
+    height: 100px;
+    background-position: -200px -100px;
+}

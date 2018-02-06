@@ -1,0 +1,71 @@
+.midget {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.midget-470069 {
+    width: 100px;
+    height: 84px;
+    background-position: 0 0;
+}
+
+.midget-470071 {
+    width: 100px;
+    height: 70px;
+    background-position: -100px 0;
+}
+
+.midget-470072 {
+    width: 65px;
+    height: 53px;
+    background-position: -200px 0;
+}
+
+.midget-470073 {
+    width: 65px;
+    height: 53px;
+    background-position: -200px -53px;
+}
+
+.midget-470074 {
+    width: 100px;
+    height: 100px;
+    background-position: -100px -70px;
+}
+
+.midget-470075 {
+    width: 100px;
+    height: 85px;
+    background-position: 0 -170px;
+}
+
+.midget-470076 {
+    width: 100px;
+    height: 64px;
+    background-position: -100px -170px;
+}
+
+.midget-470077 {
+    width: 65px;
+    height: 62px;
+    background-position: 0 -106px;
+}
+
+.midget-470078 {
+    width: 100px;
+    height: 100px;
+    background-position: -265px 0;
+}
+
+.midget-470079 {
+    width: 100px;
+    height: 88px;
+    background-position: -265px -100px;
+}
+
+.midget-470080 {
+    width: 100px;
+    height: 33px;
+    background-position: -200px -188px;
+}
